@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/* миксины изменяющий background-color кнопки */
+/* Кнопки из вёрстки */
+.slider a {
+  background: #0a3d62;
+  color: #ebf5ff; }
